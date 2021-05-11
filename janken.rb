@@ -14,7 +14,6 @@ class Player
           puts "Please input numbers between 0-2"
           puts "0: Goo, 1: Choki, 2: Par"
           input_hand == gets.to_i
-          return true
         end
       end
     end
